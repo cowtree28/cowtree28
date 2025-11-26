@@ -6,7 +6,7 @@
 />
 </a>  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cowtree28&layout=donut-vertical)](https://github.com/cowtree28/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cowtree28&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tree_tree_28)](https://solved.ac/tree_tree_28)  
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cowtree28)](https://github.com/cowtree28/github-readme-activity-graph)  
 
