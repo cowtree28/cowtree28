@@ -17,3 +17,6 @@
 
 I'm Nam Woo Hyun. I always try to learn and do my best.  
 I always try to be helpful  
+
+[![Cowtree28's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cowtree28&theme=github-compact)](https://github.com/cowtree28/github-readme-activity-graph)
+
