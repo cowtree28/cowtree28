@@ -1,7 +1,8 @@
 # I want to rest........
 
 <div align="center">
-  
+
+[![Solved.ac Profile](https://mazassumnida.wtf/api/mini/generate_badge?boj=cowtree28)](https://solved.ac/profile/cowtree28)
 [![Solved.ac Profile](https://mazassumnida.wtf/api/mini/generate_badge?boj=tree_tree_28)](https://solved.ac/profile/tree_tree_28)
 [![Spring Boot Badge](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot/)
 [![Java Badge](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)](https://www.oracle.com/java/)
