@@ -4,7 +4,15 @@
   
 [![Spring Boot Badge](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot/)
 [![Java Badge](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)](https://www.oracle.com/java/)
+<br>
 
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=cowtree28&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/cowtree28?pet-id=791997491437978719"
+    width="600"
+    height="160"
+  />
+</a>
 </div>
 
 # About Me
