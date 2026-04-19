@@ -4,6 +4,8 @@
   
 [![Spring Boot Badge](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot/)
 [![Java Badge](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)](https://www.oracle.com/java/)
+[![Solved.ac Profile](https://mazassumnida.wtf/api/mini/generate_badge?boj=tree_tree_28)](https://solved.ac/profile/tree_tree_28)
+[![Solved.ac Profile](https://mazassumnida.wtf/api/mini/generate_badge?boj=cowtree28)](https://solved.ac/profile/cowtree28)
 <br>
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=cowtree28&utm_content=line">
@@ -22,7 +24,7 @@
 **도움**이 되려고 언제나 노력합니다. 
 
 I'm Nam Woo Hyun. I always try to learn and do my best.  
-I always try to be helpful  
+I always try to be helpful.
 
 [![Cowtree28's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cowtree28&theme=github-compact)](https://github.com/cowtree28/github-readme-activity-graph)
 
